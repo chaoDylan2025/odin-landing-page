@@ -1,0 +1,15 @@
+#header-area{
+    background-color: #1F2937;
+    display: flex;
+}
+
+#links-to-info{
+    font-size: 18px;
+    color: white;
+}
+
+#main-text{
+    color: white;
+    margin-top: 100px;
+    margin-left: -230px;
+}
